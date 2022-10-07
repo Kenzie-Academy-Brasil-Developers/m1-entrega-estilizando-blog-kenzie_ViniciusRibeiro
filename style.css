@@ -36,6 +36,7 @@ form input {
     border-radius: 3px;
     background-color: rgb(235, 255, 254);
     font-weight: bold;
+    padding: 5px;
 }
 form input:hover {
     border: solid rgb(146, 146, 146) 1px;
@@ -47,6 +48,7 @@ form button {
     border: rgb(0, 162, 255) 1px;
     border-radius: 5px;
     padding: 5px;
+    margin-left: 15px;
 }
 form button:hover {
     background-color: rgb(78, 187, 255);
